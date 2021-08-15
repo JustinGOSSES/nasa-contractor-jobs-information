@@ -10,7 +10,7 @@ There is things that sorta approach it, like https://www.spacetalent.org/ , a jo
 
 Job search companies like https://www.indeed.com/ & https://www.linkedin.com/ have gotten better at returning useful results when you type in "NASA" but they fundemntally rely on companies explicitly mentioning "NASA" in their job description and advertising on one of those sites. 
 
-Companies nearly never mention "NASA" in the job title and it is uncommon to see it mentioned in the body even if the job is 100% NASA contractor.
+Companies nearly never mention "NASA" in the job title and often don't mention "NASA" in the body either, even if the job is 100% NASA contractor.
 
 <b><i>The bulk of this README is devoted to listing the various places to find lists of NASA contractors.</i></b>
 
@@ -76,7 +76,7 @@ WEBSITE: https://www.jpl.jobs/
 - SAM.GOV : technically should have finer details than usaspending.gov but the site has horrible user interface so it in no way obvious what anything on the site does unless you sit through long videos classes on each button/report type. It is insanely stupid: https://sam.gov/
 
 ## So....how do I use this information?
-I'll start right out and say there isn't a great answer to this. A few are listed below.
+I'll start right out and say there isn't a great answer to this. A few strategies are listed below.
 
 ### Rely on Job Search Sites
 None of the job search sites that I know allow you to upload a list of company titles and say just give me the current jobs being advertised by those companies. This is unfortunate, as it would pretty much solve the problem, or at least 85% of the way to a solution. 
@@ -93,29 +93,31 @@ The signal to noise ratio is better in the second option, but you might get more
 
 However, it will miss a certain % of the open and publicly advertised jobs.
 
-### Manual & Focused Path
-You could limit your search to contractor companies that are listed as the prime contractor at the center nearest to you. You could also limit it to companies listed on the NASA center's prime contractor list as doing work related to the type of job you're interested in. Some but not all of the center lists also detail what types of work each contractor company is responsible for hiring. A little sleuthing might even get you what NASA orgs each some of the contractors support, which might further narrow your search. 
+### Focus Your Search To A Few Companies & Check Their Websites Directly
+You could limit your search to contractor companies that are listed as the prime contractor at the center nearest to you. You could also limit it to companies listed on the NASA center's prime contractor list as doing work related to the type of job you're interested in. Some but not all of the center lists also detail what types of work each contractor company is responsible for hiring. A little sleuthing might even get you what NASA orgs each some of the contractors support.
 
-At the end, you might narrow things down to 3-10 companies whose job sites you can check manually every week or so.
+At the end, you might narrow things down to 5-15 companies whose job sites you can check manually every week or so.
 
-This takes a lot of time but it would give you good, if highly focused, coverage across open NASA contractor jobs.
+This takes a lot of time but it would give you good, if potentially too focused, coverage across open NASA contractor jobs.
 
 ### Integrations with Job Sites?
 You might wonder why someone doesn't just automate this process into their own NASA contractor specific job site? 
 
-The short answer is job sites like indeed and others seem to have been moving away from making their APIs easily accessible and reusable for this purpose. They want people to go to their site directly it seems.</i>
+The short answer is job sites like indeed and others seem to have been moving away from making their APIs easily accessible and reusable for this purpose. They want job seekers to go to their site directly it seems.</i>
 
-For example, LinkedIN has information on their APIs here: https://developer.linkedin.com/ but it doesn't look like any of these are really geared to job searchers or webpages that are built for job searchers.
+For example, LinkedIN has information on their APIs here: https://developer.linkedin.com/ but it doesn't look like any of these are really geared to job searchers or webpages that are built for job searchers. Google results will return tutorials and examples of developers using Indeed's API, but they are mostly all from 2014-2018 and use an API now depreciated.
 
 If you're really want to build on top of results coming from job search sites, it looks like, at least currently, you're limited to building web scrapers to extract the content from these sites. There's a bunch of people who have done that, of course, but it can be dubious from a copyright and legal standpoint, especially if expressly forbidden by the site. 
 
 ### Programmatic Extracting of Job Information from Contractor Websites Directly
-Another option that I haven't seen done, but theoretically could be done is you build your own clone of indeed/LinkedIN that uses web scraping to get data from each contractor's career page. 
+Another option that I haven't seen done but theoretically could be done is you build your own clone of indeed/LinkedIN that uses web scraping to get data from each contractor's career page. 
 
 ##### CONs
 
-One of the obvious disadvantages of this approach is it takes a lot of work. You'd have to build a scraper and adapt it to each contractor company's career page. You'd then have to normalize the content and display it on your own front-end. You'd probably want to build in some sort of automated re-generation that would run the scraper every day or so and re-populate your webpage. Additionally, any time a contractor company changed their career page, you'd have to re-write that portion of your code. There would also be some pages that have techniques in place to block bots, which is what your scraper would be.
+One of the obvious disadvantages of this approach is it takes a lot of work. You'd have to build a scraper and adapt it to each contractor company's career page. You'd then have to normalize the content and display it on your own front-end. You'd probably want to build in some sort of automated re-generation that would run the scraper every day or so and re-populate your webpage. Additionally, any time a contractor company changed their career page, you'd have to re-write that portion of your code. There would also be some company's career pages that have techniques in place to block bots, which is what your scraper would be.
 
 ##### PROs
 
-This is the only method that would get you all the jobs from NASA contractors that you're interested in on a regular basis. Theoretically, you could even put ads on the site to attempt to recoup some of your costs from building and maintaining the site.
+This is the only method that would get you all the jobs from NASA contractors that you're interested in on a regular basis. Theoretically, you could even put ads on the site to attempt to recoup some of your costs from building and maintaining the site. 
+
+This is one of <a href="https://github.com/JustinGOSSES/sideproject_planning">my side project ideas</a> that I've never done but might be interested in collaborating with others on. A big question for me is how much time it would continuously take to maintain even if you built it.
