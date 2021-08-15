@@ -35,7 +35,7 @@ Also, please note that there are many pathways internship positions where your s
 Some contractors work onsite at NASA centers and are very integrated into the main NASA in terms of day to day meetings, culture, etc. Others are mostly or entirely offsite, produce product X that meets requirements a, b, and c. These contractors work more for their contractor company in terms of culture, reporting, meetings, location, etc. 
 
 ## Who Are NASA Contractors? 
-This is less clear an issues that you might think.
+This is less clear than you might expect.
 
 ## Official Listings
 Every NASA center has a listing of the prime contractors somewhere on their public website. Where that list sits and the format of it is highly variable. 
