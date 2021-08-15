@@ -91,6 +91,8 @@ The signal to noise ratio is better in the second option, but you might get more
 
 <B><i>IF YOU WANT A QUICK SOLUTION THAT DOESN'T REQUIRE A LOT OF MANUAL WORK OR TECH SKILS, THIS IS IT.</i></b>
 
+<i>You might wonder why someone doesn't just automate this process into their own NASA contractor specific job site? The short answer is job sites like indeed and others seem to have been moving away from making their APIs easily accessible and reusable. For reasons, they want people to go to their site directly it seems.</i>
+
 ### Manual & Focused Path
 You could limit your search to contractor companies that are listed as the prime contractor at the center nearest to you and who are listed on the center prime contractor list as doing work related to the type of job you're interested in. A little sleuthing might even get you what NASA orgs each some of the contractors support, which might further narrow your search. At the end, you might narrow things down to 3-5 companies whose job sites you can check manually every week or so.
 
