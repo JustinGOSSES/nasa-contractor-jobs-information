@@ -76,4 +76,20 @@ WEBSITE: https://www.jpl.jobs/
 - SAM.GOV : technically should have finer details than usaspending.gov but the site has horrible user interface so it in no way obvious what anything on the site does unless you sit through long videos classes on each button/report type. It is insanely stupid: https://sam.gov/
 
 ## So....how do I use this information?
-To be continued....
+I'll start right out and say there isn't a great answer to this. A few are listed below.
+
+### Rely on Job Search Sites
+None of the job search sites that I know allow you to upload a list of company titles and say just give me the current jobs being advertised by those companies. This is unfortunate, as it would pretty much solve the problem, or at least 85% of the way to a solution. 
+
+The alternative is to use the advanced search functionality to at least focus on job descriptions with "NASA" or "johnson space center" mentioned somewhere in them. This does an alright job, but it certainly misses a lot as well. 
+
+Here is a link to indeed results for any job description with "nasa": https://www.indeed.com/advanced_search?q=nasa&l= 
+
+Here is a link to ineed results for any job description with "johnson space center": 
+
+<B><i>IF YOU WANT A QUICK SOLUTION THAT DOESN'T REQUIRE A LOT OF MANUAL WORK OR TECH SKILS, THIS IS IT.</i></b>
+
+### Manual & Focused Path
+You could limit your search to contractor companies that are listed as the prime contractor at the center nearest to you and who are listed on the center prime contractor list as doing work related to the type of job you're interested in. A little sleuthing might even get you what NASA orgs each some of the contractors support, which might further narrow your search. At the end, you might narrow things down to 3-5 companies whose job sites you can check manually every week or so.
+
+### 
