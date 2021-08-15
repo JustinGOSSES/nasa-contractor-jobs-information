@@ -35,12 +35,12 @@ Also, please note that there are many pathways internship positions where your s
 Some contractors work onsite at NASA centers and are very integrated into the main NASA in terms of day to day meetings, culture, etc. Others are mostly or entirely offsite, produce product X that meets requirements a, b, and c. These contractors work more for their contractor company in terms of culture, reporting, meetings, location, etc. 
 
 ## Who Are NASA Contractors? 
-This is less clear an issues
+This is less clear an issues that you might think.
 
 ## Official Listings
-Every NASA center typically has a listing of the prime contractors somewhere on their public website. Where that list sites and the format of it is highly variable. 
+Every NASA center has a listing of the prime contractors somewhere on their public website. Where that list sits and the format of it is highly variable. 
 
-Additionally, these are often just lists of prime contractors. Most of the prime contractor has sub-contractors that are on the same contract. The sub-contractors may not be listed on the NASA generated lists.
+Additionally, these lists often just list prime contractors. Most of the prime contractor have sub-contractors. The sub-contractors may not be listed on the lists of contractors that NASA puts out.
 
 ### NASA Center List of Prime Contractors
 #### Johnson Space Center (Houston, Texas)
