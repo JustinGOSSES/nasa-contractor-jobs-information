@@ -65,4 +65,4 @@ HTML: https://www.nasa.gov/ames/aeronautics/jobs/contractors
 - WIKIPEDIA: https://en.wikipedia.org/wiki/List_of_NASA_contractors 
 - aeroweb: "NASA's Top 100 Contractors": http://fi-aeroweb.com/Top-100-NASA-Contractors.html
 - NASA contractors from usaspending.gov which requires a lot of button clicks to get to just NASA but possible: https://www.usaspending.gov/explorer/agency
-- SAM.GOV : technically should have finer details than usaspending.gov but the site has horrible user interface so it in no way obvious what anything on the site does unless you site through long classes on each thing. It is insanely stupid: https://sam.gov/reports/awards/standard
+- SAM.GOV : technically should have finer details than usaspending.gov but the site has horrible user interface so it in no way obvious what anything on the site does unless you sit through long videos classes on each button/report type. It is insanely stupid: https://sam.gov/
