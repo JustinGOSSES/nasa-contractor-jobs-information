@@ -85,7 +85,9 @@ The alternative is to use the advanced search functionality to at least focus on
 
 Here is a link to indeed results for any job description with "nasa": https://www.indeed.com/advanced_search?q=nasa&l= 
 
-Here is a link to ineed results for any job description with "johnson space center": 
+Here is a link to ineed results for any job description with "johnson space center": https://www.indeed.com/advanced_search?q=johnson%20space%20center&l=
+
+The signal to noise ratio is better in the second option, but you might get more results in total with the first.
 
 <B><i>IF YOU WANT A QUICK SOLUTION THAT DOESN'T REQUIRE A LOT OF MANUAL WORK OR TECH SKILS, THIS IS IT.</i></b>
 
