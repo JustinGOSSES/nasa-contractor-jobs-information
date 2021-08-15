@@ -91,10 +91,14 @@ The signal to noise ratio is better in the second option, but you might get more
 
 <B><i>IF YOU WANT A QUICK SOLUTION THAT DOESN'T REQUIRE A LOT OF MANUAL WORK OR TECH SKILS, THIS IS IT.</i></b>
 
-
+However, it will miss a certain % of the open and publicly advertised jobs.
 
 ### Manual & Focused Path
-You could limit your search to contractor companies that are listed as the prime contractor at the center nearest to you and who are listed on the center prime contractor list as doing work related to the type of job you're interested in. A little sleuthing might even get you what NASA orgs each some of the contractors support, which might further narrow your search. At the end, you might narrow things down to 3-5 companies whose job sites you can check manually every week or so.
+You could limit your search to contractor companies that are listed as the prime contractor at the center nearest to you. You could also limit it to companies listed on the NASA center's prime contractor list as doing work related to the type of job you're interested in. Some but not all of the center lists also detail what types of work each contractor company is responsible for hiring. A little sleuthing might even get you what NASA orgs each some of the contractors support, which might further narrow your search. 
+
+At the end, you might narrow things down to 3-10 companies whose job sites you can check manually every week or so.
+
+This takes a lot of time but it would give you good, if highly focused, coverage across open NASA contractor jobs.
 
 ### Integrations with Job Sites?
 You might wonder why someone doesn't just automate this process into their own NASA contractor specific job site? 
