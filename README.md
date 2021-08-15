@@ -49,6 +49,9 @@ EXCEL: https://www.nasa.gov/centers/johnson/about/people/contractorlist.html
 #### Marshal Space Center (Huntsville, Alabama)
 PDF: https://www.nasa.gov/centers/marshall/pdf/174803main_msfc_prime_contractors.pdf 
 
+#### Stennis Space Center (Hancock County, Mississippi)
+https://www.nasa.gov/centers/stennis/about/jobs/index.html
+
 #### Glenn Research Center (Cleveland, Ohio)
 PDF: https://www.nasa.gov/sites/default/files/atoms/files/grc-local-contractor-listing-060321.pdf 
 
@@ -60,11 +63,17 @@ PDF: https://sites.wff.nasa.gov/code802/wff_prime_contractors.pdf
 #### Ames Research Center (Mountain View, California)
 HTML: https://www.nasa.gov/ames/aeronautics/jobs/contractors
 
-#### JPL (THIS WHOLE CENTER ARE CONTRACTORS!)
+#### Armstrong Flight Research Center (Edwards Air Force Base, California)
+HTML: https://www.nasa.gov/centers/armstrong/employment/contractor-opportunities/index.html
 
+#### JPL (THIS WHOLE CENTER IS ONLY CONTRACTORS!)
+WEBSITE: https://www.jpl.jobs/
 
 ### NASA-wide Contractor Lists
 - WIKIPEDIA: https://en.wikipedia.org/wiki/List_of_NASA_contractors 
 - aeroweb: "NASA's Top 100 Contractors": http://fi-aeroweb.com/Top-100-NASA-Contractors.html
 - NASA contractors from usaspending.gov which requires a lot of button clicks to get to just NASA but possible: https://www.usaspending.gov/explorer/agency
 - SAM.GOV : technically should have finer details than usaspending.gov but the site has horrible user interface so it in no way obvious what anything on the site does unless you sit through long videos classes on each button/report type. It is insanely stupid: https://sam.gov/
+
+## So....how do I use this information?
+To be continued....
