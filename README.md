@@ -3,6 +3,8 @@ This is a place I put information about where to look for NASA contractor jobs, 
 
 <i>WARNING: This is just my opinion at one point in time and likely will be incorrect and out of date in some form almost immediately.</i>
 
+If you have any improvements or edits, please read the <a href="https://github.com/JustinGOSSES/nasa-contractor-jobs-information/blob/main/contributing.md">contributing guidelines</a>.
+
 ## Problem this document attempts to impact
 There is no single site to go to for NASA contractor specific job searches. If you are looking for NASA civil servant jobs, there is https://www.usajobs.gov/ . 
 
