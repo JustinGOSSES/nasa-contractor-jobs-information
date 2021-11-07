@@ -1,5 +1,5 @@
 # nasa-contractor-jobs-information
-Place to put information about where to look for NASA contractor jobs so I can just send people a link to it and not have to retype
+This is a place I put information about where to look for NASA contractor jobs, so I can just send people a link to it and not have to retype it all out each email.
 
 <i>WARNING: This is just my opinion at one point in time and likely will be incorrect and out of date in some form almost immediately.</i>
 
@@ -34,7 +34,20 @@ Also, please note that there are many pathways internship positions where your s
 ### Variation in Contractor Experience
 Some contractors work onsite at NASA centers and are very integrated into the main NASA in terms of day to day meetings, culture, etc. Others are mostly or entirely offsite, produce product X that meets requirements a, b, and c. These contractors work more for their contractor company in terms of culture, reporting, meetings, location, etc. 
 
-## Who Are NASA Contractors? 
+### Can Foreign Nationals be NASA Contractors?
+I'll have to give a hand wavy answer here based on my both my limited knowledge, the limted public documentation on this question, and the extent to which the answer really just depends on position specific things you might have no way of knowing from the outside.
+
+In general.....Most of the time no. In special circumstances yes. 
+
+JPL (Jet Propulsion Laboratory) has foreign nationals working for it. However, not all jobs there can be worked by foreign nationals. That being said, if you're wanting to have a good chance of a NASA tied job being accepting of foriegn nationals, JPL is probably your best bet in terms of both scale and percentages. 
+
+Similarly, other physical science facilities run by another organization on behalf of NASA are generally more likely on average to accept foreign national applicants. JPL is by far the biggest of those.
+
+Where it gets very unlikely that a position will accept foreign national applicants is positions that are either onsite at a physical locality where there are rockets, testing, engineering, or space communications or where you might have easier "IT" access to those things. 
+
+Again, this is very hand wavy and just observations. These aren't rules or guidelines. 
+
+## Who Are NASA Contractor Companies? 
 This is less clear than you might expect.
 
 ## Official Listings
