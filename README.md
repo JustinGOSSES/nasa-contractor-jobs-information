@@ -47,6 +47,9 @@ Where it gets very unlikely that a position will accept foreign national applica
 
 Again, this is very hand wavy and just observations. These aren't rules or guidelines. 
 
+### Remote NASA Contractor Jobs
+Some NASA contractor jobs will now explicitly say in the job advertisement that they are remote friendly. However, some of them that are possible to work remotely won't state it is possible to work them remotely. You may have to ask. The HR contact listed probably won't know, but asking the HR contact to direct the question to the hiring manager if they don't know themselves can be a good tactic.  I've started to see language like "this job is onsite at " to convey that a job is not remote friendly, but it seems the standard language is still developing.
+
 ## Who Are NASA Contractor Companies? 
 This is less clear than you might expect.
 
