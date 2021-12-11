@@ -1,45 +1,56 @@
 # nasa-contractor-jobs-information
-This is a place I put information about where to look for NASA contractor jobs, so I can just send people a link to it and not have to retype it all out each email.
+This is a place I'm  putting information about where to look for NASA contractor jobs, so I can just send people a link to it and not have to retype it all out each email.
 
 <i>WARNING: This is just my opinion at one point in time and likely will be incorrect and out of date in some form almost immediately.</i>
 
 If you have any improvements or edits, please read the <a href="https://github.com/JustinGOSSES/nasa-contractor-jobs-information/blob/main/contributing.md">contributing guidelines</a>.
 
+#### My Experience
+
+From 2016 to 2021, I worked as as <a href="https://justingosses.com/resume/"a S.A.I.C. contractor for NASA</a> supporting the Office of Chief Information Officer Transformation and Data Division on open data, open code, code platform, data analytics, and machine learning tasks. 
+
+Working as a NASA contractor can be a great experience. I certainly found my time there to a great opportunity. Nearly everyone works with a base assumption that things can be done better. You get to work on directly or indirectly work on things that matter and inspire.
+
+NASA needs and deserves top contractor staff, but sometimes it can be hard for people to find the door. THe path in for civil servants is fairly well known with lots of written about it, the contractor path less so. After seeing a small slice of this information in a twitter thread that got a lot of engagement, I thought there might be reason to write up this document. 
+
 ## Problem this document attempts to impact
-There is no single site to go to for NASA contractor specific job searches. If you are looking for NASA civil servant jobs, there is https://www.usajobs.gov/ . 
+Although most people think about working for NASA in terms of a civil servant job in which one works directly for NASA, <i>most of NASA's work is actually done by contractors who make a much larger workforce</i>. 
 
-There is things that sorta approach it, like https://www.spacetalent.org/ , a job search site "for the space economy" but space talent only has a small percent of NASA contractors advertising jobs there and some of the companies are very adjacent to space to put it mildly.
+There is no single site to go to for NASA contractor specific job searches. 
 
-Job search companies like https://www.indeed.com/ & https://www.linkedin.com/ have gotten better at returning useful results when you type in "NASA" but they fundemntally rely on companies explicitly mentioning "NASA" in their job description and advertising on one of those sites. 
+If you are looking for NASA civil servant jobs, there is https://www.usajobs.gov/ . 
 
-Companies nearly never mention "NASA" in the job title and often don't mention "NASA" in the body either, even if the job is 100% NASA contractor.
+There are things that sorta approach being a contractor version of https://www.usajobs.gov/, like https://www.spacetalent.org/ , a job search site "for the space economy" but space talent has only a small percent of all NASA contractor companies advertising jobs there. Additionally, some of the companies advertising there are only very adjacent to the space industry to put it mildly.
+
+Job search companies like https://www.indeed.com/ & https://www.linkedin.com/ have gotten better at returning useful results when you type in "NASA" but they fundementally rely on companies explicitly mentioning "NASA" in their job description and advertising on one of those sites. 
+
+Many companies nearly never mention "NASA" in the job title and often don't mention "NASA" in the body either, even if the job is 100% NASA contractor.
 
 <b><i>The bulk of this README is devoted to listing the various places to find lists of NASA contractors.</i></b>
-
-## Civil Servant vs. Contractor
-### The majority of NASA is contractors.
-Although most people think about working for NASA in terms of a civil servant job in which one works directly for NASA, most of NASA's work is actually done by contractors who make a much larger workforce. 
-
-However, if you are looking for NASA civil servant jobs, check here: https://www.usajobs.gov/ 
 
 ### Internships
 For interns wanted to intern at NASA, please note that there are basically 3 types of interns:
 - interns for the various contractor companies
 - interns for USRA, which is a comapny that manages most of the NASA interns on behalf of NASA. This is the way most students intern.
-- Pathways internships. These are basically interning for NASA, aka the federal government directly. Students that get hired out of school for NASA do several pathways internships before becoming actual normal civil servants.
+- Pathways internships. These are basically interning for NASA, aka the federal government directly. Students that get hired out of school for NASA do several pathways internships before becoming normal civil servants. It seems common to do a USRA internship first and then get a Pathways intern later.
 
 WARNING: None of the information above may be accurate at some point in future time and it certainly isn't comprehense.  
 
 #### Accrediation Trap for Pathways Interns
-Also, please note that there are many pathways internship positions where your school must have an accrediated engineering program and there is only one accrediation agency allowed. This has applied for things like computer science internships where your major isn't an engineering major. In my opinion it is dumb, but there have been students I know who did know things until it was too late and would have otherwise gone to a completely differente school.
+Also, please note that there are many pathways internship positions where your school must have an accrediated engineering program and there is only one accrediation agency allowed. This rule has in the past been applied for positions like a Pathways computer science internship where the required major (computer science) wouldn't normally be considered an engineering major. I known of several students who didn't realize their school made them ineligible for pathways interns until it was too late to change schools. I know one who changed schools because of it.
 
-### Variation in Contractor Experience
-Some contractors work onsite at NASA centers and are very integrated into the main NASA in terms of day to day meetings, culture, etc. Others are mostly or entirely offsite, produce product X that meets requirements a, b, and c. These contractors work more for their contractor company in terms of culture, reporting, meetings, location, etc. 
+### Variation in Contractor Experience 
+#### (onsite, offsite, and how plugged in you are to centralized NASA)
+Some contractors work onsite at NASA centers and are very integrated into the main NASA in terms of day to day meetings, culture, etc. 
+
+Others are mostly or entirely offsite, produce product X that meets requirements a, b, and c. These contractors work more for their contractor company in terms of culture, reporting, meetings, location, etc. 
 
 ### Can Foreign Nationals be NASA Contractors?
 I'll have to give a hand wavy answer here based on my both my limited knowledge, the limted public documentation on this question, and the extent to which the answer really just depends on position specific things you might have no way of knowing from the outside.
 
 In general.....Most of the time no. In special circumstances yes. 
+
+Usually, the position description will include this information, but not hundred percent of the time.
 
 JPL (Jet Propulsion Laboratory) has foreign nationals working for it. However, not all jobs there can be worked by foreign nationals. That being said, if you're wanting to have a good chance of a NASA tied job being accepting of foriegn nationals, JPL is probably your best bet in terms of both scale and percentages. 
 
@@ -47,16 +58,16 @@ Similarly, other physical science facilities run by another organization on beha
 
 Where it gets very unlikely that a position will accept foreign national applicants is positions that are either onsite at a physical locality where there are rockets, testing, engineering, or space communications or where you might have easier "IT" access to those things. 
 
-Again, this is very hand wavy and just observations. These aren't rules or guidelines. 
+Again, this is very hand wavy and just observations. These aren't rules or guidelines. Don't depend on any of these vague generalizations being correct.
 
 ### Remote NASA Contractor Jobs
-Some NASA contractor jobs will now explicitly say in the job advertisement that they are remote friendly. However, some of them that are possible to work remotely won't state it is possible to work them remotely. You may have to ask. The HR contact listed probably won't know, but asking the HR contact to direct the question to the hiring manager if they don't know themselves can be a good tactic.  I've started to see language like "this job is onsite at " to convey that a job is not remote friendly, but it seems the standard language is still developing.
+Some NASA contractor jobs will now explicitly say in the job advertisement that they are remote friendly. However, some of them that are possible to work remotely won't state it is possible to work them remotely. You may have to ask. The HR contact listed probably won't know, but asking the HR contact to direct the question to the hiring manager, if they don't know themselves, can be a good tactic. Otherwise, they'll likely just repeat what's already written in the advertisement. I've started to see language like "this job is onsite at " to convey that a job is not remote friendly, but it seems the standard language is still developing.
 
 ## Who Are NASA Contractor Companies? 
 This is less clear than you might expect.
 
-## Official Listings
-Every NASA center has a listing of the prime contractors somewhere on their public website. Where that list sits and the format of it is highly variable. 
+### Official Listings
+Every NASA center has a listing of the prime contractors somewhere on their public website. Where that list is located online and the format of it is highly variable. 
 
 Additionally, these lists often just list prime contractors. Most of the prime contractor have sub-contractors. The sub-contractors may not be listed on the lists of contractors that NASA puts out.
 
@@ -74,6 +85,8 @@ https://www.nasa.gov/centers/stennis/about/jobs/index.html
 PDF: https://www.nasa.gov/sites/default/files/atoms/files/grc-local-contractor-listing-060321.pdf 
 
 #### Goddard Space Flight Center (Greenbelt, Maryland)
+HTML: https://www.nasa.gov/centers/goddard/business/foia/contracts.html (contracts not contract companies listed)
+HTML: https://goddard-contractors-association.org/
 
 ##### Whallops Flight Facility
 PDF: https://sites.wff.nasa.gov/code802/wff_prime_contractors.pdf
@@ -91,7 +104,7 @@ WEBSITE: https://www.jpl.jobs/
 - WIKIPEDIA: https://en.wikipedia.org/wiki/List_of_NASA_contractors 
 - aeroweb: "NASA's Top 100 Contractors": http://fi-aeroweb.com/Top-100-NASA-Contractors.html
 - NASA contractors from usaspending.gov which requires a lot of button clicks to get to just NASA but possible: https://www.usaspending.gov/explorer/agency
-- SAM.GOV : technically should have finer details than usaspending.gov but the site has horrible user interface so it in no way obvious what anything on the site does unless you sit through long videos classes on each button/report type. It is insanely stupid: https://sam.gov/
+- SAM.GOV : technically should have finer details than usaspending.gov but the site has horrible user interface so it in no way obvious what anything on the site does unless you sit through long videos classes on each button/report type. https://sam.gov/
 
 ## So....how do I use this information?
 I'll start right out and say there isn't a great answer to this. A few strategies are listed below.
@@ -136,6 +149,4 @@ One of the obvious disadvantages of this approach is it takes a lot of work. You
 
 ##### PROs
 
-This is the only method that would get you all the jobs from NASA contractors that you're interested in on a regular basis. Theoretically, you could even put ads on the site to attempt to recoup some of your costs from building and maintaining the site. 
-
-This is one of <a href="https://github.com/JustinGOSSES/sideproject_planning">my side project ideas</a> that I've never done but might be interested in collaborating with others on. A big question for me is how much time it would continuously take to maintain even if you built it.
+This is the only method that would get you all the jobs from NASA contractors that you're interested in on a regular basis. Theoretically, you could even put ads on the site to attempt to recoup some of your costs from building and maintaining the site. This is one of <a href="https://github.com/JustinGOSSES/sideproject_planning">my side project ideas</a> that I've never done. A big question for me is how much time it would continuously take to maintain even if you did build it.
