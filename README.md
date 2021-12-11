@@ -16,7 +16,7 @@ NASA needs and deserves top contractor staff, but sometimes it can be hard for p
 ## Problem this document attempts to impact
 Although most people think about working for NASA in terms of a civil servant job in which one works directly for NASA, <i>most of NASA's work is actually done by contractors who make a much larger workforce</i>. 
 
-There is no single site to go to for NASA contractor specific job searches. 
+<b><i>There is no single site to go to for NASA contractor specific job searches.</i></b>
 
 If you are looking for NASA civil servant jobs, there is https://www.usajobs.gov/ . 
 
