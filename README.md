@@ -9,7 +9,7 @@ If you have any improvements or edits, please read the <a href="https://github.c
 
 From 2016 to 2021, I worked as as <a href="https://justingosses.com/resume/"> S.A.I.C. contractor for NASA</a> supporting the Office of Chief Information Officer Transformation and Data Division on open data, open code, code platform, data analytics, and machine learning tasks. 
 
-Working as a NASA contractor can be a great experience. I certainly found my time there to a great opportunity. Nearly everyone works with a base assumption that things can be done better. You get to work on directly or indirectly work on things that matter and inspire.
+Working as a NASA contractor can be a great experience. I certainly found my time there to a great opportunity. Nearly everyone works with a base assumption that things can be done better. You get to directly or indirectly work on things that matter and inspire.
 
 NASA needs and deserves top contractor staff, but sometimes it can be hard for people to find the door. THe path in for civil servants is fairly well known with lots of written about it, the contractor path less so. After seeing a small slice of this information in a twitter thread that got a lot of engagement, I thought there might be reason to write up this document. 
 
