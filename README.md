@@ -132,7 +132,7 @@ WARNING: None of the information above may be accurate at some point in future t
 #### Accrediation Trap for Pathways Interns
 Also, please note that there are many pathways internship positions where your school must have an accrediated engineering program and there is only one accrediation agency allowed. This rule has in the past been applied for positions like a Pathways computer science internship where the required major (computer science) wouldn't normally be considered an engineering major. I known of several students who didn't realize their school made them ineligible for pathways interns until it was too late to change schools. I know one who changed schools because of it.
 
-### Variation in Contractor Experience 
+### What "Type" of Contractor Role is It?
 #### (onsite, offsite, and how plugged in you are to centralized NASA)
 Some contractors work onsite at NASA centers and are very integrated into the main NASA in terms of day to day meetings, culture, etc. 
 
