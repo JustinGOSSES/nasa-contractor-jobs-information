@@ -28,40 +28,6 @@ Many companies nearly never mention "NASA" in the job title and often don't ment
 
 <b><i>The bulk of this README is devoted to listing the various places to find lists of NASA contractors.</i></b>
 
-### Internships
-For interns wanted to intern at NASA, please note that there are basically 3 types of interns:
-- interns for the various contractor companies
-- interns for USRA, which is a comapny that manages most of the NASA interns on behalf of NASA. This is the way most students intern.
-- Pathways internships. These are basically interning for NASA, aka the federal government directly. Students that get hired out of school for NASA do several pathways internships before becoming normal civil servants. It seems common to do a USRA internship first and then get a Pathways intern later.
-
-WARNING: None of the information above may be accurate at some point in future time and it certainly isn't comprehense.  
-
-#### Accrediation Trap for Pathways Interns
-Also, please note that there are many pathways internship positions where your school must have an accrediated engineering program and there is only one accrediation agency allowed. This rule has in the past been applied for positions like a Pathways computer science internship where the required major (computer science) wouldn't normally be considered an engineering major. I known of several students who didn't realize their school made them ineligible for pathways interns until it was too late to change schools. I know one who changed schools because of it.
-
-### Variation in Contractor Experience 
-#### (onsite, offsite, and how plugged in you are to centralized NASA)
-Some contractors work onsite at NASA centers and are very integrated into the main NASA in terms of day to day meetings, culture, etc. 
-
-Others are mostly or entirely offsite, produce product X that meets requirements a, b, and c. These contractors work more for their contractor company in terms of culture, reporting, meetings, location, etc. 
-
-### Can Foreign Nationals be NASA Contractors?
-I'll have to give a hand wavy answer here based on my both my limited knowledge, the limted public documentation on this question, and the extent to which the answer really just depends on position specific things you might have no way of knowing from the outside.
-
-In general.....Most of the time no. In special circumstances yes. 
-
-Usually, the position description will include this information, but not hundred percent of the time.
-
-JPL (Jet Propulsion Laboratory) has foreign nationals working for it. However, not all jobs there can be worked by foreign nationals. That being said, if you're wanting to have a good chance of a NASA tied job being accepting of foriegn nationals, JPL is probably your best bet in terms of both scale and percentages. 
-
-Similarly, other physical science facilities run by another organization on behalf of NASA are generally more likely on average to accept foreign national applicants. JPL is by far the biggest of those.
-
-Where it gets very unlikely that a position will accept foreign national applicants is positions that are either onsite at a physical locality where there are rockets, testing, engineering, or space communications or where you might have easier "IT" access to those things. 
-
-Again, this is very hand wavy and just observations. These aren't rules or guidelines. Don't depend on any of these vague generalizations being correct.
-
-### Remote NASA Contractor Jobs
-Some NASA contractor jobs will now explicitly say in the job advertisement that they are remote friendly. However, some of them that are possible to work remotely won't state it is possible to work them remotely. You may have to ask. The HR contact listed probably won't know, but asking the HR contact to direct the question to the hiring manager, if they don't know themselves, can be a good tactic. Otherwise, they'll likely just repeat what's already written in the advertisement. I've started to see language like "this job is onsite at " to convey that a job is not remote friendly, but it seems the standard language is still developing.
 
 ## Who Are NASA Contractor Companies? 
 This is less clear than you might expect.
@@ -150,3 +116,40 @@ One of the obvious disadvantages of this approach is it takes a lot of work. You
 ##### PROs
 
 This is the only method that would get you all the jobs from NASA contractors that you're interested in on a regular basis. Theoretically, you could even put ads on the site to attempt to recoup some of your costs from building and maintaining the site. This is one of <a href="https://github.com/JustinGOSSES/sideproject_planning">my side project ideas</a> that I've never done. A big question for me is how much time it would continuously take to maintain even if you did build it.
+
+## Other Closely Related Information
+
+### Internships
+For interns wanted to intern at NASA, please note that there are basically 3 types of interns:
+- interns for the various contractor companies
+- interns for USRA, which is a comapny that manages most of the NASA interns on behalf of NASA. This is the way most students intern.
+- Pathways internships. These are basically interning for NASA, aka the federal government directly. Students that get hired out of school for NASA do several pathways internships before becoming normal civil servants. It seems common to do a USRA internship first and then get a Pathways intern later.
+
+WARNING: None of the information above may be accurate at some point in future time and it certainly isn't comprehense.  
+
+#### Accrediation Trap for Pathways Interns
+Also, please note that there are many pathways internship positions where your school must have an accrediated engineering program and there is only one accrediation agency allowed. This rule has in the past been applied for positions like a Pathways computer science internship where the required major (computer science) wouldn't normally be considered an engineering major. I known of several students who didn't realize their school made them ineligible for pathways interns until it was too late to change schools. I know one who changed schools because of it.
+
+### Variation in Contractor Experience 
+#### (onsite, offsite, and how plugged in you are to centralized NASA)
+Some contractors work onsite at NASA centers and are very integrated into the main NASA in terms of day to day meetings, culture, etc. 
+
+Others are mostly or entirely offsite, produce product X that meets requirements a, b, and c. These contractors work more for their contractor company in terms of culture, reporting, meetings, location, etc. 
+
+### Can Foreign Nationals be NASA Contractors?
+I'll have to give a hand wavy answer here based on my both my limited knowledge, the limted public documentation on this question, and the extent to which the answer really just depends on position specific things you might have no way of knowing from the outside.
+
+In general.....Most of the time no. In special circumstances yes. 
+
+Usually, the position description will include this information, but not hundred percent of the time.
+
+JPL (Jet Propulsion Laboratory) has foreign nationals working for it. However, not all jobs there can be worked by foreign nationals. That being said, if you're wanting to have a good chance of a NASA tied job being accepting of foriegn nationals, JPL is probably your best bet in terms of both scale and percentages. 
+
+Similarly, other physical science facilities run by another organization on behalf of NASA are generally more likely on average to accept foreign national applicants. JPL is by far the biggest of those.
+
+Where it gets very unlikely that a position will accept foreign national applicants is positions that are either onsite at a physical locality where there are rockets, testing, engineering, or space communications or where you might have easier "IT" access to those things. 
+
+Again, this is very hand wavy and just observations. These aren't rules or guidelines. Don't depend on any of these vague generalizations being correct.
+
+### Remote NASA Contractor Jobs
+Some NASA contractor jobs will now explicitly say in the job advertisement that they are remote friendly. However, some of them that are possible to work remotely won't state it is possible to work them remotely. You may have to ask. The HR contact listed probably won't know, but asking the HR contact to direct the question to the hiring manager, if they don't know themselves, can be a good tactic. Otherwise, they'll likely just repeat what's already written in the advertisement. I've started to see language like "this job is onsite at " to convey that a job is not remote friendly, but it seems the standard language is still developing.
