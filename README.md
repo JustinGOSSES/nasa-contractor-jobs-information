@@ -32,6 +32,8 @@ Many companies nearly never mention "NASA" in the job title and often don't ment
 ## Who Are NASA Contractor Companies? 
 This is less clear than you might expect.
 
+<i>NOTE: If something in this list is outdated, please consider submitting a pull request or issue.</i>
+
 ### Official Listings
 Every NASA center has a listing of the prime contractors somewhere on their public website. Where that list is located online and the format of it is highly variable. 
 
