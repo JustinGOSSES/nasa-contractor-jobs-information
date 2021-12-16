@@ -6,14 +6,14 @@ This is a place I'm  putting information about where to look for NASA contractor
 If you have any improvements or edits, please read the <a href="https://github.com/JustinGOSSES/nasa-contractor-jobs-information/blob/main/contributing.md">contributing guidelines</a>.
 
 ## Table of Contents
-- [Why Target NASA Contractor](#why-target-nasa-contractor)
+- [Why Target NASA Contractor Job](#why-target-nasa-contractor-job)
 - [My Experience](#my-experience)
 - [Problem this document attempts to impact](#problems-this-document-attempts-to-impact)
 - [Who Are NASA Contractor Companies](#who-are-nasa-contractor-companies)
 - [Other Related Information](#other--related-information)
 
 
-### Why Target NASA Contractor
+### Why Target NASA Contractor Job
 Although most people think about working for NASA in terms of working directly for NASA as a government civil servant, <i>most of NASA's work is actually done by contractors</i>. Contractors make up the large majority of NASA's workforce.
 
 Working as a NASA contractor can be a great experience. I certainly found my time there to a great opportunity. I found nearly everyone works with a base assumption that things can be done better. You get to directly or indirectly work on things that matter and inspire.
