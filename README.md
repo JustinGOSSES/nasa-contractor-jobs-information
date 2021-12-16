@@ -5,16 +5,29 @@ This is a place I'm  putting information about where to look for NASA contractor
 
 If you have any improvements or edits, please read the <a href="https://github.com/JustinGOSSES/nasa-contractor-jobs-information/blob/main/contributing.md">contributing guidelines</a>.
 
-#### My Experience
+## Table of Contents
+- [Why Target NASA Contractor](#why-target-nasa-contractor)
+- [My Experience](#my-experience)
+- [Problem this document attempts to impact](#problems-this-document-attempts-to-impact)
+- [Who Are NASA Contractor Companies](#who-are-nasa-contractor-companies)
+- [Other Closely Related Information](#other-closely-related-information]
 
-From 2016 to 2021, I worked as as <a href="https://justingosses.com/resume/"> S.A.I.C. contractor for NASA</a> supporting the Office of Chief Information Officer Transformation and Data Division on open data, open code, code platform, data analytics, and machine learning tasks. 
 
-Working as a NASA contractor can be a great experience. I certainly found my time there to a great opportunity. Nearly everyone works with a base assumption that things can be done better. You get to directly or indirectly work on things that matter and inspire.
+### Why Target NASA Contractor
+Although most people think about working for NASA in terms of working directly for NASA as a government civil servant, <i>most of NASA's work is actually done by contractors</i>. Contractors make up the large majority of NASA's workforce.
 
-NASA needs and deserves top contractor staff, but sometimes it can be hard for people to find the door. The path in for civil servants is fairly well known with lots of written about it, the contractor path less so. After seeing a small slice of this information in a twitter thread that got a lot of engagement, I thought there might be reason to write up this document. 
+Working as a NASA contractor can be a great experience. I certainly found my time there to a great opportunity. I found nearly everyone works with a base assumption that things can be done better. You get to directly or indirectly work on things that matter and inspire.
+
+NASA needs and deserves top contractor staff, but sometimes it can be hard for people to find the door. The path in for civil servants is fairly well known with lots written about it. The contractor path is more fuzzy with lots of different doors. 
+
+##### What "Type" of Contractor Role is It?
+Some contractors work onsite at NASA centers and are very integrated into the main NASA in terms of day to day meetings, culture, etc. Others are mostly or entirely offsite, produce product X that meets requirements a, b, and c. These contractors work more for their contractor company in terms of culture, reporting, meetings, location, etc. 
+
+##### My Experience
+
+For context from 2016 to 2021 I worked as as <a href="https://justingosses.com/resume/"> S.A.I.C. contractor for NASA</a> supporting the Office of Chief Information Officer Transformation and Data Division on open data, open code, code platform, data analytics, and machine learning tasks. 
 
 ## Problem this document attempts to impact
-Although most people think about working for NASA in terms of a civil servant job in which one works directly for NASA, <i>most of NASA's work is actually done by contractors who make a much larger workforce</i>. 
 
 <b><i>There is no single site to go to for NASA contractor specific job searches.</i></b>
 
@@ -29,7 +42,7 @@ Many companies nearly never mention "NASA" in the job title and often don't ment
 <b><i>The bulk of this README is devoted to listing the various places to find lists of NASA contractors.</i></b>
 
 
-## Who Are NASA Contractor Companies? 
+## Who Are NASA Contractor Companies
 This is less clear than you might expect.
 
 <i>NOTE: If something in this list is outdated, please consider submitting a pull request or issue.</i>
@@ -132,11 +145,6 @@ WARNING: None of the information above may be accurate at some point in future t
 #### Accrediation Trap for Pathways Interns
 Also, please note that there are many pathways internship positions where your school must have an accrediated engineering program and there is only one accrediation agency allowed. This rule has in the past been applied for positions like a Pathways computer science internship where the required major (computer science) wouldn't normally be considered an engineering major. I known of several students who didn't realize their school made them ineligible for pathways interns until it was too late to change schools. I know one who changed schools because of it.
 
-### What "Type" of Contractor Role is It?
-#### (onsite, offsite, and how plugged in you are to centralized NASA)
-Some contractors work onsite at NASA centers and are very integrated into the main NASA in terms of day to day meetings, culture, etc. 
-
-Others are mostly or entirely offsite, produce product X that meets requirements a, b, and c. These contractors work more for their contractor company in terms of culture, reporting, meetings, location, etc. 
 
 ### Can Foreign Nationals be NASA Contractors?
 I'll have to give a hand wavy answer here based on my both my limited knowledge, the limted public documentation on this question, and the extent to which the answer really just depends on position specific things you might have no way of knowing from the outside.
