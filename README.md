@@ -10,7 +10,7 @@ If you have any improvements or edits, please read the <a href="https://github.c
 - [My Experience](#my-experience)
 - [Problem this document attempts to impact](#problems-this-document-attempts-to-impact)
 - [Who Are NASA Contractor Companies](#who-are-nasa-contractor-companies)
-- [Other Related Information](#other--related-information]
+- [Other Related Information](#other--related-information)
 
 
 ### Why Target NASA Contractor
