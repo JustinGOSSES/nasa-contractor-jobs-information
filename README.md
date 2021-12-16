@@ -157,7 +157,7 @@ There are many more positions that are possible to work remotely that won't say 
 
 Organizations that cross multiple NASA centers and don't deal with anything physical are more likely to be supportive of remote work.
 
-Be aware that, even if a position is remote friendly, there will likely be a need for you to come to a NASA center at the beginning of the role for finger printing and other activities. Many positions require you to be onsite several times a year or at least within driving distance. Remote can mean different things. It is very much a "it depends" situation.
+Be aware that, even if a position is remote friendly, there will likely be a need for you to come to a NASA center at the beginning of the role for finger printing and other activities. Many positions require you to be onsite several times a year or at least within driving distance. Remote can mean different things. Sometimes companies won't like to hire someone brand new hundreds miles away, but they're okay with existing employees being that far away. It is very much a "it depends" situation.
 
 ### Can Foreign Nationals be NASA Contractors?
 This has been a common question when I've posted positions in certain Slack channels. 
