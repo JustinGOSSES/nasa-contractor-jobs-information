@@ -11,6 +11,9 @@ If you have any improvements or edits, please read the <a href="https://github.c
 - [Problem this document attempts to impact](#problems-this-document-attempts-to-impact)
 - [Who Are NASA Contractor Companies](#who-are-nasa-contractor-companies)
 - [Other Related Information](#other--related-information)
+  - [Internships](#internships)
+  - [Remote NASA Contractor Jobs](#remote-nasa-contractor-jobs)
+  - [Can Foreign Nationals be NASA Contractors](#can-foreign-nationals-be-nasa-contractors)
 
 
 ### Why Target NASA Contractor Job
@@ -159,7 +162,7 @@ Organizations that cross multiple NASA centers and don't deal with anything phys
 
 Be aware that, even if a position is remote friendly, there will likely be a need for you to come to a NASA center at the beginning of the role for finger printing and other activities. Many positions require you to be onsite several times a year or at least within driving distance. Remote can mean different things. Sometimes companies won't like to hire someone brand new hundreds miles away, but they're okay with existing employees being that far away. It is very much a "it depends" situation.
 
-### Can Foreign Nationals be NASA Contractors?
+### Can Foreign Nationals be NASA Contractors
 This has been a common question when I've posted positions in certain Slack channels. 
 
 I'll have to give a hand wavy answer here based on my both my limited knowledge, the limted public documentation on this question, and the extent to which the answer really just depends on position specific things you might have no way of knowing from the outside.
