@@ -1,4 +1,4 @@
-# nasa-contractor-jobs-information
+# Information on Finding a NASA Contractor Job
 This is a place I'm  putting information about where to look for NASA contractor jobs, so I can just send people a link to it and not have to retype it all out each email.
 
 <i>WARNING: This is just my opinion at one point in time and likely will be incorrect and out of date in some form almost immediately.</i>
