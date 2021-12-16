@@ -10,7 +10,7 @@ If you have any improvements or edits, please read the <a href="https://github.c
 - [My Experience](#my-experience)
 - [Problem this document attempts to impact](#problems-this-document-attempts-to-impact)
 - [Who Are NASA Contractor Companies](#who-are-nasa-contractor-companies)
-- [Other Closely Related Information](#other-closely-related-information]
+- [Other Related Information](#other--related-information]
 
 
 ### Why Target NASA Contractor
@@ -132,7 +132,7 @@ One of the obvious disadvantages of this approach is it takes a lot of work. You
 
 This is the only method that would get you all the jobs from NASA contractors that you're interested in on a regular basis. Theoretically, you could even put ads on the site to attempt to recoup some of your costs from building and maintaining the site. This is one of <a href="https://github.com/JustinGOSSES/sideproject_planning">my side project ideas</a> that I've never done. A big question for me is how much time it would continuously take to maintain even if you did build it.
 
-## Other Closely Related Information
+## Other Related Information
 
 ### Internships
 For interns wanted to intern at NASA, please note that there are basically 3 types of interns:
