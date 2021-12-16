@@ -7,7 +7,6 @@ If you have any improvements or edits, please read the <a href="https://github.c
 
 ## Table of Contents
 - [Why Target NASA Contractor Job](#why-target-nasa-contractor-job)
-- [My Experience](#my-experience)
 - [Problem this document attempts to impact](#problems-this-document-attempts-to-impact)
 - [Who Are NASA Contractor Companies](#who-are-nasa-contractor-companies)
 - [Other Related Information](#other--related-information)
