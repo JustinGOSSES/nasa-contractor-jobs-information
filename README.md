@@ -149,6 +149,8 @@ Also, please note that there are many pathways internship positions where your s
 
 
 ### Can Foreign Nationals be NASA Contractors?
+This has been a common question when I've posted positions in certain Slack channels. 
+
 I'll have to give a hand wavy answer here based on my both my limited knowledge, the limted public documentation on this question, and the extent to which the answer really just depends on position specific things you might have no way of knowing from the outside.
 
 In general.....Most of the time no. In special circumstances yes. 
