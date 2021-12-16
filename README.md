@@ -175,7 +175,7 @@ JPL (Jet Propulsion Laboratory) has foreign nationals working for it. However, n
 
 Similarly, other science facilities run by another organization on behalf of NASA are generally more likely on average to accept foreign national applicants. JPL is by far the biggest of those.
 
-Where it gets very unlikely that a position will accept foreign national applicants is positions that are either onsite at a physical locality where there are rockets, testing, engineering, or space communications or where you might have easier "IT" access to those things. 
+Where it gets very unlikely (but not 100% impossible) that a position will accept foreign national applicants is positions that are either onsite at a physical locality where there are rockets, testing, engineering, or space communications or where you might have easier "IT" access to those things. 
 
 Again, this is very hand wavy and just observations. These aren't rules or guidelines. Don't depend on any of these vague generalizations being correct.
 
