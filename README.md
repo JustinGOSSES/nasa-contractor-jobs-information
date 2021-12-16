@@ -148,6 +148,15 @@ WARNING: None of the information above may be accurate at some point in future t
 Also, please note that there are many pathways internship positions where your school must have an accrediated engineering program and there is only one accrediation agency allowed. This rule has in the past been applied for positions like a Pathways computer science internship where the required major (computer science) wouldn't normally be considered an engineering major. I known of several students who didn't realize their school made them ineligible for pathways interns until it was too late to change schools. I know one who changed schools because of it.
 
 
+### Remote NASA Contractor Jobs
+<i>A caveat up front is that the job market around remote work is still evolving quickly. What is said below is based on limited exprience in 2020-2021.</i>
+
+Some NASA contractor jobs will now explicitly say in the job advertisement that they are remote friendly. This is getting more common to see even if it is still rare overall. I've started to see language like "this job is onsite at ___ " to convey that a job is not remote friendly, but it seems the standard language is still developing. 
+
+There are many more positions that are possible to work remotely that won't say anything about it in the job description. This can be because they'd prefer a local candidate if possible or because no one thought ot write it into the job description. The HR contact listed probably won't know if a position is remote. When asking them via email, a good tactic can be to not just ask them but ask them to ask the hiring manager. Otherwise, they'll likely just repeat what's already written in the advertisement. 
+
+Be aware that, even if a position is remote friendly, there may be a need for you to come to a NASA center either at the beginning of the role for finger printing and other activities and potentially several times a year for other things.
+
 ### Can Foreign Nationals be NASA Contractors?
 This has been a common question when I've posted positions in certain Slack channels. 
 
@@ -155,21 +164,13 @@ I'll have to give a hand wavy answer here based on my both my limited knowledge,
 
 In general.....Most of the time no. In special circumstances yes. 
 
-Usually, the position description will include this information, but not hundred percent of the time.
+Usually, the position description will include this information, but it is not included one hundred percent of the time.
 
-JPL (Jet Propulsion Laboratory) has foreign nationals working for it. However, not all jobs there can be worked by foreign nationals. That being said, if you're wanting to have a good chance of a NASA tied job being accepting of foriegn nationals, JPL is probably your best bet in terms of both scale and percentages. 
+JPL (Jet Propulsion Laboratory) has foreign nationals working for it. However, not all jobs there can be worked by foreign nationals. That being said, if you want to have a good chance of finding a NASA job that can accept foriegn nationals, JPL is probably your best bet in terms of both scale and percentages. 
 
-Similarly, other physical science facilities run by another organization on behalf of NASA are generally more likely on average to accept foreign national applicants. JPL is by far the biggest of those.
+Similarly, other science facilities run by another organization on behalf of NASA are generally more likely on average to accept foreign national applicants. JPL is by far the biggest of those.
 
 Where it gets very unlikely that a position will accept foreign national applicants is positions that are either onsite at a physical locality where there are rockets, testing, engineering, or space communications or where you might have easier "IT" access to those things. 
 
 Again, this is very hand wavy and just observations. These aren't rules or guidelines. Don't depend on any of these vague generalizations being correct.
 
-### Remote NASA Contractor Jobs
-<i>A caveat up front is that the job market around remote work is still evolving quickly. What is said below is based on limited exprience in 2020-2021.</i>
-
-Some NASA contractor jobs will now explicitly say in the job advertisement that they are remote friendly. However, some of them that are possible to work remotely won't state it is possible to work them remotely. You may have to ask. 
-
-The HR contact listed probably won't know, but asking the HR contact to direct the question to the hiring manager, if they don't know themselves, can be a good tactic. Otherwise, they'll likely just repeat what's already written in the advertisement. 
-
-I've started to see language like "this job is onsite at ___ " to convey that a job is not remote friendly, but it seems the standard language is still developing.
