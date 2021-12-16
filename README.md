@@ -77,16 +77,19 @@ PDF: https://sites.wff.nasa.gov/code802/wff_prime_contractors.pdf
 #### Ames Research Center (Mountain View, California)
 HTML: https://www.nasa.gov/ames/aeronautics/jobs/contractors
 
+#### Kennedy Space Flight Center (Merritt Island)
+PDF: https://procurement.ksc.nasa.gov/-/media/LSPKiosk/CIAO/KSC_Marketing_Guide.ashx?la=en&hash=43CE38D5B618C88E54268D13E9CE597D
+
 #### Armstrong Flight Research Center (Edwards Air Force Base, California)
 HTML: https://www.nasa.gov/centers/armstrong/employment/contractor-opportunities/index.html
 
-#### JPL (THIS WHOLE CENTER IS ONLY CONTRACTORS!)
-WEBSITE: https://www.jpl.jobs/
+#### Mary W. Jackson NASA Headquarters (Washington, D.C.)
+COULD NOT FIND THIS ONE!!!!
 
 #### Jet Propulsion Laboratory (Los Angeles,California)
 Note that JPL is run by Caltech and everyone who works for JPL s a NASA contractor.</p>
 
-WEBSITE: <a href="https://www.jpl.jobs/">https://www.jpl.jobs/</a>
+WEBSITE: https://www.jpl.jobs/
 
 ### NASA-wide Contractor Lists
 #### Unofficial 
