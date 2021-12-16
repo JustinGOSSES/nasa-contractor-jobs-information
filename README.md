@@ -21,7 +21,7 @@ Working as a NASA contractor can be a great experience. I certainly found my tim
 NASA needs and deserves top contractor staff, but sometimes it can be hard for people to find the door. The path in for civil servants is centralized and fairly well known with lots written about it. The contractor path is more fuzzy with lots of different doors. 
 
 ##### What "Type" of Contractor Role is It?
-Some contractors work onsite at NASA centers and are very integrated into the main NASA in terms of day to day meetings, culture, etc. Others are mostly or entirely offsite, produce product X that meets requirements a, b, and c. These contractors work more for their contractor company in terms of culture, reporting, meetings, location, etc. 
+Some contractors work onsite at NASA centers and are very integrated into the main NASA in terms of day to day meetings, culture, etc. Others are mostly or entirely offsite, produce product X that meets requirements a, b, and c. These contractors work more for their contractor company in terms of culture, reporting, meetings, location, etc. Companies like Jacobs and S.A.I.C. employ many contractors that work onsite and are fairly embedded into the daily NASA work culture. Examples of companies that employe contractors that are more likely be slightly removed from the daily NASA work life include Boeing, SpaceX, and Lockheed Martin Corp.
 
 ##### My Experience
 
@@ -82,8 +82,10 @@ HTML: https://www.nasa.gov/centers/armstrong/employment/contractor-opportunities
 WEBSITE: https://www.jpl.jobs/
 
 ### NASA-wide Contractor Lists
+#### Unofficial 
 - WIKIPEDIA: https://en.wikipedia.org/wiki/List_of_NASA_contractors 
 - aeroweb: "NASA's Top 100 Contractors": http://fi-aeroweb.com/Top-100-NASA-Contractors.html
+#### Official
 - NASA contractors from usaspending.gov which requires a lot of button clicks to get to just NASA but possible: https://www.usaspending.gov/explorer/agency
 - SAM.GOV : technically should have finer details than usaspending.gov but the site has horrible user interface so it in no way obvious what anything on the site does unless you sit through long videos classes on each button/report type. https://sam.gov/
 
@@ -112,17 +114,17 @@ At the end, you might narrow things down to 5-15 companies whose job sites you c
 
 This takes a lot of time but it would give you good, if potentially too focused, coverage across open NASA contractor jobs.
 
-### Integrations with Job Sites?
+### Can you Extend Job Sites Via API?
 You might wonder why someone doesn't just automate this process into their own NASA contractor specific job site? 
 
-The short answer is job sites like indeed and others seem to have been moving away from making their APIs easily accessible and reusable for this purpose. They want job seekers to go to their site directly it seems.</i>
+The short answer is job sites like Indeed and others seem to have been moving away from making their APIs easily accessible and reusable for this purpose. They want job seekers to go to their site directly it seems.</i>
 
 For example, LinkedIN has information on their APIs here: https://developer.linkedin.com/ but it doesn't look like any of these are really geared to job searchers or webpages that are built for job searchers. Google results will return tutorials and examples of developers using Indeed's API, but they are mostly all from 2014-2018 and use an API now depreciated.
 
 If you're really want to build on top of results coming from job search sites, it looks like, at least currently, you're limited to building web scrapers to extract the content from these sites. There's a bunch of people who have done that, of course, but it can be dubious from a copyright and legal standpoint, especially if expressly forbidden by the site. 
 
 ### Programmatic Extracting of Job Information from Contractor Websites Directly
-Another option that I haven't seen done but theoretically could be done is you build your own clone of indeed/LinkedIN that uses web scraping to get data from each contractor's career page. 
+Another option that I haven't seen done but theoretically could be done is you build your own clone of indeed/LinkedIN that uses web scraping to get data from each contractor's career page. This is a big project with pros and cons.
 
 ##### CONs
 
@@ -162,4 +164,10 @@ Where it gets very unlikely that a position will accept foreign national applica
 Again, this is very hand wavy and just observations. These aren't rules or guidelines. Don't depend on any of these vague generalizations being correct.
 
 ### Remote NASA Contractor Jobs
-Some NASA contractor jobs will now explicitly say in the job advertisement that they are remote friendly. However, some of them that are possible to work remotely won't state it is possible to work them remotely. You may have to ask. The HR contact listed probably won't know, but asking the HR contact to direct the question to the hiring manager, if they don't know themselves, can be a good tactic. Otherwise, they'll likely just repeat what's already written in the advertisement. I've started to see language like "this job is onsite at " to convey that a job is not remote friendly, but it seems the standard language is still developing.
+<i>A caveat up front is that the job market around remote work is still evolving quickly. What is said below is based on limited exprience in 2020-2021.</i>
+
+Some NASA contractor jobs will now explicitly say in the job advertisement that they are remote friendly. However, some of them that are possible to work remotely won't state it is possible to work them remotely. You may have to ask. 
+
+The HR contact listed probably won't know, but asking the HR contact to direct the question to the hiring manager, if they don't know themselves, can be a good tactic. Otherwise, they'll likely just repeat what's already written in the advertisement. 
+
+I've started to see language like "this job is onsite at ___ " to convey that a job is not remote friendly, but it seems the standard language is still developing.
