@@ -18,7 +18,7 @@ Although most people think about working for NASA in terms of working directly f
 
 Working as a NASA contractor can be a great experience. I certainly found my time there to a great opportunity. I found nearly everyone works with a base assumption that things can be done better. You get to directly or indirectly work on things that matter and inspire.
 
-NASA needs and deserves top contractor staff, but sometimes it can be hard for people to find the door. The path in for civil servants is fairly well known with lots written about it. The contractor path is more fuzzy with lots of different doors. 
+NASA needs and deserves top contractor staff, but sometimes it can be hard for people to find the door. The path in for civil servants is centralized and fairly well known with lots written about it. The contractor path is more fuzzy with lots of different doors. 
 
 ##### What "Type" of Contractor Role is It?
 Some contractors work onsite at NASA centers and are very integrated into the main NASA in terms of day to day meetings, culture, etc. Others are mostly or entirely offsite, produce product X that meets requirements a, b, and c. These contractors work more for their contractor company in terms of culture, reporting, meetings, location, etc. 
