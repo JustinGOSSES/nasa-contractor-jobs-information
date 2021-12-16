@@ -155,6 +155,8 @@ Some NASA contractor jobs will now explicitly say in the job advertisement that 
 
 There are many more positions that are possible to work remotely that won't say anything about it in the job description. This can be because they'd prefer a local candidate if possible or because no one thought ot write it into the job description. The HR contact listed probably won't know if a position is remote. When asking them via email, a good tactic can be to not just ask them but ask them to ask the hiring manager. Otherwise, they'll likely just repeat what's already written in the advertisement. 
 
+Organizations that cross multiple NASA centers and don't deal with anything physical are more likely to be supportive of remote work.
+
 Be aware that, even if a position is remote friendly, there will likely be a need for you to come to a NASA center at the beginning of the role for finger printing and other activities. Many positions require you to be onsite several times a year or at least within driving distance. Remote can mean different things. It is very much a "it depends" situation.
 
 ### Can Foreign Nationals be NASA Contractors?
