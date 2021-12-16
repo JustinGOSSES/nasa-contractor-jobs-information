@@ -124,15 +124,15 @@ For example, LinkedIN has information on their APIs here: https://developer.link
 If you're really want to build on top of results coming from job search sites, it looks like, at least currently, you're limited to building web scrapers to extract the content from these sites. There's a bunch of people who have done that, of course, but it can be dubious from a copyright and legal standpoint, especially if expressly forbidden by the site. 
 
 ### Programmatic Extracting of Job Information from Contractor Websites Directly
-Another option that I haven't seen done but theoretically could be done is you build your own clone of indeed/LinkedIN that uses web scraping to get data from each contractor's career page. This is a big project with pros and cons.
+Another option that I haven't seen done but theoretically could be done is you build your own clone of indeed/LinkedIN that uses web scraping to get data from each contractor's career page.
 
-##### CONs
+The obvious disadvantages of this approach is it takes a lot of work. You'd have to build a scraper and adapt it to each contractor company's career page. You'd then have to normalize the content and display it on your own front-end. You'd probably want to build in some sort of automated re-generation that would run the scraper every day or so and re-populate your webpage. Additionally, any time a contractor company changed their career page, you'd have to re-write that portion of your code. There would also be some company's career pages that have techniques in place to block bots, which is what your scraper would be.
 
-One of the obvious disadvantages of this approach is it takes a lot of work. You'd have to build a scraper and adapt it to each contractor company's career page. You'd then have to normalize the content and display it on your own front-end. You'd probably want to build in some sort of automated re-generation that would run the scraper every day or so and re-populate your webpage. Additionally, any time a contractor company changed their career page, you'd have to re-write that portion of your code. There would also be some company's career pages that have techniques in place to block bots, which is what your scraper would be.
+The main benefit of this approach is it is the only method that would get you all the jobs from NASA contractors that you're interested in on a regular basis. 
 
-##### PROs
+Theoretically, you could even put ads on the site to attempt to recoup some of your costs from building and maintaining the site. This is one of <a href="https://github.com/JustinGOSSES/sideproject_planning">my side project ideas</a> that I've never done. A big question for me is how much time it would continuously take to maintain even if you did build it.
 
-This is the only method that would get you all the jobs from NASA contractors that you're interested in on a regular basis. Theoretically, you could even put ads on the site to attempt to recoup some of your costs from building and maintaining the site. This is one of <a href="https://github.com/JustinGOSSES/sideproject_planning">my side project ideas</a> that I've never done. A big question for me is how much time it would continuously take to maintain even if you did build it.
+If it still seems tempting, here's a link to the XKCD cartoon <a href="https://xkcd.com/1205/">"Is It Worth The Time"</a>.
 
 ## Other Related Information
 
