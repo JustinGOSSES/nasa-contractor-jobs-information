@@ -37,12 +37,15 @@ If you are looking for NASA civil servant jobs, there is https://www.usajobs.gov
 
 There are things that sorta approach being a contractor version of https://www.usajobs.gov/, like https://www.spacetalent.org/ , a job search site "for the space economy" but space talent has only a small percent of all NASA contractor companies advertising jobs there. Additionally, some of the companies advertising there are only very adjacent to the space industry to put it mildly.
 
+
+
 Job search companies like https://www.indeed.com/ & https://www.linkedin.com/ have gotten better at returning useful results when you type in "NASA" but they fundementally rely on companies explicitly mentioning "NASA" in their job description and advertising on one of those sites. 
 
 Many companies nearly never mention "NASA" in the job title and often don't mention "NASA" in the body either, even if the job is 100% NASA contractor.
 
 <b><i>The bulk of this README is devoted to listing the various places to find lists of NASA contractors.</i></b>
 
+<a href="https://rocketcrew.space/">Rocketcrew</a> is a space focused job board with better signal to noise, but it still only captures a small slice of total jobs.
 
 ## Who Are NASA Contractor Companies
 This is less clear than you might expect.
