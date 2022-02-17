@@ -155,12 +155,14 @@ For interns wanted to intern at NASA, please note that there are basically 3 typ
 - interns for USRA, which is a comapny that manages most of the NASA interns on behalf of NASA. This is the way most students intern.
 - Pathways internships. These are basically interning for NASA, aka the federal government directly. Students that get hired out of school for NASA do several pathways internships before becoming normal civil servants. It seems common to do a USRA internship first and then get a Pathways intern later.
 
-### PostDocs
-- NASA also has postdocs https://npp.orau.org/index.html
-WARNING: None of the information above may be accurate at some point in future time and it certainly isn't comprehense.  
-
 #### Accrediation Trap for Pathways Interns
 Also, please note that there are many pathways internship positions where your school must have an accrediated engineering program and there is only one accrediation agency allowed. This rule has in the past been applied for positions like a Pathways computer science internship where the required major (computer science) wouldn't normally be considered an engineering major. I known of several students who didn't realize their school made them ineligible for pathways interns until it was too late to change schools. I know one who changed schools because of it.
+
+### PostDocs
+- NASA also has postdocs https://npp.orau.org/index.html
+
+
+WARNING: None of the information above may be accurate at some point in future time and it certainly isn't comprehense.  
 
 
 ### Remote NASA Contractor Jobs
